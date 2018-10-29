@@ -1,0 +1,62 @@
+body {
+    background-color: pink;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* .form-container {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-content: center
+}*/
+.card-title, .card-text, .bottom  {
+   text-align: center;
+
+}
+
+.A, .B, .C {
+    border: 2px solid black;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+.card-body-A {
+    background-color: #f2e2ad;
+}
+.list-group-item-A {
+  background-color: #ccc091;
+}
+.btn-primary-A {
+    background-color: #9f957a;
+}
+
+.card-body-B{
+    background-color: #505f4b;
+}
+.list-group-item-B {
+  background-color: #4f5540;
+}
+.btn-primary-B {
+    background-color: #a49a74;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.card-body-C{
+    background-color:#eaa27f;
+}
+.list-group-item-C {
+  background-color:#b84048 ;
+}
+.btn-primary-C {
+    background-color: #a3c3be;
+}
+.card-box {
+   height: 400px;
+    width: 400px;
+    border: 1px solid black       
+}
